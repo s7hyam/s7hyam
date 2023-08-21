@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @s7hyam
-
-- 🌱 I’m currently learning Frontend Web Development
-- 💞️ I’m looking to collaborate in Web Development
-- 📫 How to reach me? : just send a mail to s7hyam28@gmail.com
--
+- 👋 Hi
 
 
 <!---
