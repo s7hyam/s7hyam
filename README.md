@@ -1,4 +1,4 @@
-- 👋 Hi
+- 👋 Hi, I'm Shyam Choudhary currently hacking on NEXTJS and TS
 
 
 <!---
