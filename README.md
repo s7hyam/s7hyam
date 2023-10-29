@@ -1,5 +1,6 @@
 - 👋 Hi, I'm Shyam Choudhary currently hacking on NEXTJS and TS
-Mail Me : s7hyamweb@gmail.com
+- 
+-  Mail  : s7hyamweb@gmail.com
 
 
 <!---
